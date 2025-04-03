@@ -53,7 +53,7 @@ class HomeScreen extends StatelessWidget {
       ),
       body: AppBackground(
         child: Padding(
-          padding: const EdgeInsets.only(
+          padding: EdgeInsets.only(
             top: kToolbarHeight + 16,
             bottom: 16,
           ),
