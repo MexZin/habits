@@ -65,7 +65,7 @@ class _QuoteScreenState extends State<QuoteScreen> {
                                 width: 1.5,
                               ),
                               borderRadius: BorderRadius.circular(16),
-                              color: Colors.white.withOpacity(0.05),
+                              color: const Color.fromARGB(255, 255, 255, 255),
                             ),
                             child: Text(
                               '"${_quote!.q}"',
