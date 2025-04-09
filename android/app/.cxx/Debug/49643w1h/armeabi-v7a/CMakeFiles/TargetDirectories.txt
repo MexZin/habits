@@ -1,0 +1,2 @@
+C:/repo/daily_habits/daily/android/app/.cxx/Debug/49643w1h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/repo/daily_habits/daily/android/app/.cxx/Debug/49643w1h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
